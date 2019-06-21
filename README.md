@@ -7,4 +7,8 @@ cd yet_another_crud_demo
 
 npm install
 
+Start your Mongo Server Instance by using your OS Specific commands like (sudo service mongod start etc)
+
+Start Node App:
+
 node app.js
